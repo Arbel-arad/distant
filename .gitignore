@@ -4,3 +4,4 @@
 /distant-ssh2/Cargo.lock
 **/*.un~
 /result
+/.direnv
